@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-22 18:20+0100\n"
+"PO-Revision-Date: 2021-01-22 18:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;number_format_i18n;date_i18n;esc_html__;esc_html_x;"
+"esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/lm-easy-maps-menu.php:9
+msgid "LM Easy Maps"
+msgstr "LM Easy Maps"
+
+#: includes/lm-easy-maps-menu.php:10
+msgid "LM Easy Map"
+msgstr "LM Easy Map"
+
+#: includes/lm-easy-maps-menu.php:11 includes/lm-easy-maps-menu.php:12
+#: includes/lm-easy-maps-menu.php:14
+msgid "Add new map"
+msgstr "Agregar nuevo mapa"
+
+#: includes/lm-easy-maps-menu.php:13
+msgid "Edit map"
+msgstr "Editar mapa"
+
+#: includes/lm-easy-maps-menu.php:15
+msgid "View map"
+msgstr "Ver el mapa"
+
+#: includes/lm-easy-maps-menu.php:16
+msgid "Search map"
+msgstr "Buscar mapa"
+
+#: includes/lm-easy-maps-menu.php:17
+msgid "Maps not found"
+msgstr "Mapas no encontrados"
+
+#: includes/lm-easy-maps-menu.php:18
+msgid "Maps not found in the trash"
+msgstr "Mapas no encontrados en la papelera"
+
+#: includes/lm-easy-maps-menu.php:47 includes/lm-easy-maps-widget.php:90
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/lm-easy-maps-menu.php:63
+msgid "ShortCode"
+msgstr "ShortCode"
+
+#: includes/lm-easy-maps-menu.php:64
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/lm-easy-maps-modifica.php:82
+msgid "Address"
+msgstr "Habla a"
+
+#: includes/lm-easy-maps-modifica.php:84
+msgid ""
+"Insert an address, point of interest or GPS coordinates (latitude, longitude)"
+msgstr ""
+"Ingrese una dirección, un punto de interés o coordenadas GPS (latitud, "
+"longitud)"
+
+#: includes/lm-easy-maps-modifica.php:87
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/lm-easy-maps-modifica.php:88
+msgid "Insert the zoom level"
+msgstr "Inserte el nivel de zoom"
+
+#: includes/lm-easy-maps-modifica.php:91
+msgid "Choose the size of the map"
+msgstr "Elige el tamaño del mapa"
+
+#: includes/lm-easy-maps-modifica.php:92
+msgid ""
+"Choose whether to set a fixed dimension in <b> pixels </b> of the map or to "
+"cover all available space"
+msgstr ""
+"Elija si desea establecer una dimensión fija en <b>píxeles</b> del mapa o "
+"para cubrir todo el espacio disponible"
+
+#: includes/lm-easy-maps-modifica.php:99
+msgid "All the space"
+msgstr "Todo el espacio"
+
+#: includes/lm-easy-maps-modifica.php:101
+msgid "Fixed size"
+msgstr "Tamaño fijo"
+
+#: includes/lm-easy-maps-modifica.php:105
+msgid "Height"
+msgstr "Altura"
+
+#: includes/lm-easy-maps-modifica.php:107
+msgid "Width"
+msgstr "Anchura"
+
+#: includes/lm-easy-maps-widget.php:21
+msgid "LMEasyMaps"
+msgstr "LMEasyMaps"
+
+#: includes/lm-easy-maps-widget.php:22
+msgid "Show one map!"
+msgstr "¡Muestra un mapa!"
+
+#: includes/lm-easy-maps-widget.php:55
+msgid "New title"
+msgstr "Nuevo título"
+
+#: includes/lm-easy-maps-widget.php:58
+msgid "Select a map"
+msgstr "Seleccione un mapa"
+
+#: includes/lm-easy-maps-widget.php:64
+msgid "Insert text for button"
+msgstr "Insertar texto para botón"
+
+#: includes/lm-easy-maps-widget.php:109
+msgid "Insert a link in the appropriate field to display the button"
+msgstr "Inserte un enlace en el campo apropiado para mostrar el botón"
+
+#: includes/lm-easy-maps-widget.php:112
+msgid "Button text"
+msgstr "Botón de texto"
+
+#: includes/lm-easy-maps-widget.php:117
+msgid "Link"
+msgstr "Enlace"
